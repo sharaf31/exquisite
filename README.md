@@ -13,6 +13,9 @@ MongoDB 3.6 [reason to use mongoDB is it provides the text searches for the keyw
 Maven 3.5
 Nginx 1.13 [the reason for using Nginx is to ]
 Docker [reason to use docker is that above all the libraries need not to be present when running the software]
+Mockito [Unit test the service layer], 
+TestRestTemplate [Integration tests]
+Junit [Asserting the Tests]
 
 #### Running the Software
 $ docker-compose up
